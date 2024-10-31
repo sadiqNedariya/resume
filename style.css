@@ -1,0 +1,54 @@
+#resume{
+    background-color: aqua;
+    text-align: center;
+}
+h2{
+    color: black;
+}
+p{
+    color: black;
+}
+#career{
+    background-color: darkgray;
+    color: black;
+    height: 30px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    
+}
+h3{
+    background-color: darkgray;
+    color: black;
+    height: 30px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+#other{
+    background-color: darkgray;
+    color: black;
+    height: 30px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.n{
+    /* background-color: blue; */
+    position: absolute;
+    right: 10%;
+    bottom: -23%;
+}
+
+#my{
+    display: inline-block;
+}
+img{
+    width: 150px;
+    height: 175px;
+    /* margin-right: 10%; */
+    position: relative;
+    top:-20%;
+    left: 65%;
+}
